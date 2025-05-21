@@ -1,12 +1,46 @@
-# readme.md
-Portfólio profissional e projetos de Jairan Queiroz – Desenvolvedor Front-End Júnior focado em acessibilidade, design e tecnologias modernas
-
-
 # 👋 Olá, eu sou Jairan Queiroz
 
-🎯 Desenvolvedor Front-End Júnior em transição de carreira, com formação em Engenharia Mecânica e atualmente cursando Análise e Desenvolvimento de Sistemas. Tenho paixão por acessibilidade digital, design centrado no usuário e tecnologias que transformam vidas.
+🎯 Desenvolvedor Front-End Júnior em transição de carreira, com formação em Engenharia Mecânica e atualmente cursando Análise e Desenvolvimento de Sistemas. Tenho paixão por acessibilidade digital, design centrado no usuário e tecnologias que transformam vidas. 💙
 
-Com experiência prática em projetos web, utilizo HTML, CSS, JavaScript e estou me aprofundando em React. Também trabalho com WordPress e Figma para criação de interfaces funcionais e responsivas. Possuo perfil proativo, organizado e com histórico em liderança de equipes técnicas.
+---
+
+## 📚 Tecnologias em Aprendizado
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+---
+
+## 🎓 Em Formação
+
+👨‍🎓 Estudante de ADS – Universidade São Judas Tadeu  
+💻 Curso: **Programador BR - Fullstack**  
+🎨 Curso: **Do Figma ao Código – Design de Interface Web Completo**
+
+---
+
+## 🚀 Projeto em Destaque
+
+🔗 [Aplicativo de Acessibilidade Auditiva](https://github.com/JairanQ/1-App--Aplicativo-de-Acessibilidade-Auditiva/tree/main)  
+Um projeto voltado à inclusão e acessibilidade para pessoas com deficiência auditiva.
+
+---
+
+## 📊 GitHub Stats
+
+![JairanQ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JairanQ&show_icons=true&theme=radical&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JairanQ&layout=compact&theme=radical)
+
+---
+
+## 📘 Atualmente aprendendo
+
+- HTML, CSS e JavaScript com foco em Front-end  
+- TypeScript para aplicações mais robustas  
+- UI/UX Design com Figma  
 
 ---
 
@@ -31,7 +65,7 @@ Com experiência prática em projetos web, utilizo HTML, CSS, JavaScript e estou
 - Figma (prototipagem e UI design)
 
 **Ferramentas**  
-- Visual Studio Code,
+- Visual Studio Code  
 
 **Metodologias & Boas Práticas**  
 - Scrum (experiência em liderança de equipe técnica)  
@@ -40,36 +74,23 @@ Com experiência prática em projetos web, utilizo HTML, CSS, JavaScript e estou
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🧩 Outros Projetos
 
-🔹 [Aplicativo de Acessibilidade Auditiva](https://github.com/JairanQ/1-App--Aplicativo-de-Acessibilidade-Auditiva/tree/main)  - Este é um aplicativo que converte áudio em texto em tempo real - básico  
-🔹 [To-Do List em React](https://github.com/JairanQ) – Gerenciador de tarefas com funcionalidades  
-🔹 [Site Institucional Responsivo](https://github.com/JairanQ) – HTML, CSS e JS puro  
-🔹 [Nk Planejados](https://nkplanejados.com.br) – Desenvolvido com WordPress  
-🔹 [promobwilliamaguiar.com](https://promobwilliamaguiar.com) – Site WordPress com foco em design responsivo  
-🔹 [Churrascômetro](https://github.com/JairanQ) – Lógica JS para eventos e consumo de alimentos  
+- [To-Do List em React](https://github.com/JairanQ) – Gerenciador de tarefas com funcionalidades  
+- [Site Institucional Responsivo](https://github.com/JairanQ) – HTML, CSS e JS puro  
+- [Nk Planejados](https://nkplanejados.com.br) – Desenvolvido com WordPress  
+- [promobwilliamaguiar.com](https://promobwilliamaguiar.com) – Site WordPress com foco em design responsivo  
+- [Churrascômetro](https://github.com/JairanQ) – Lógica JS para eventos e consumo de alimentos  
 
 ---
 
-## 📚 Formação Acadêmica
+## 📖 Formação Acadêmica
 
 🎓 **Análise e Desenvolvimento de Sistemas** – Universidade São Judas  
 📅 Previsão de conclusão: 2025
 
 🎓 **Engenharia Mecânica** – Universidade Nove de Julho  
 📅 Conclusão: 2019
-
-🧑‍💻 **Cursos Complementares**  
-- Programador BR – Fullstack  
-- Do Figma ao Código – Design de Interface Web  
-
----
-
-## 🌱 Atualmente Aprendendo
-
-- React com foco em componentes reutilizáveis  
-- TypeScript para aplicações mais robustas  
-- UI/UX com Figma e acessibilidade digital  
 
 ---
 
