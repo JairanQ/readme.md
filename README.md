@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Jairan Queiroz
 
-🎯 Desenvolvedor Front-End Júnior em transição de carreira, com formação em Engenharia Mecânica e atualmente cursando Análise e Desenvolvimento de Sistemas. Tenho paixão por acessibilidade digital, design centrado no usuário e tecnologias que transformam vidas. 💙
+🎯 Desenvolvedor Front-End Júnior em transição de carreira, com formação em Engenharia Mecânica e atualmente cursando Análise e Desenvolvimento de Sistemas. Tenho interesse especial por acessibilidade digital, design centrado no usuário e tecnologias com impacto social.
 
 ---
 
